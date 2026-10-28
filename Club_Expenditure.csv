@@ -1,0 +1,57 @@
+﻿Club_id,Season,Expenditure_type,Amount_Euros(InMillions)
+RMA,2024-25,Wages & Salaries,505.74
+RMA,2024-25,Amortisation & Depreciation,167.70
+RMA,2024-25,Other Operating Expenses,383.24
+RMA,2024-25,Cost Of Sales,87.70
+RMA,2024-25,Net Interest & Debt Servicing,48.97
+RMA,2024-25,Corporate Tax,7.04
+BAR,2024-25,Wages & Salaries,509.95
+BAR,2024-25,Amortisation & Depreciation,106.31
+BAR,2024-25,Other Operating Expenses,230.13
+BAR,2024-25,Net Interest & Debt Servicing,27.34
+BAR,2024-25,Supplies,79.70
+BAR,2024-25,Corporate Tax,8.57
+BAR,2024-25,Impairment of Financial Investments,52.57
+BAR,2024-25,Exchange Differences,1.12
+PSG,2024-25,Wages & Salaries,535.00
+PSG,2024-25,Agent Fees,24.10
+PSG,2024-25,Amortisation & Depreciation,159.90
+PSG,2024-25,Other Operating Expenses,229.20
+PSG,2024-25,Net Interest & Debt Servicing,3.00
+ARS,2024-25,Wages & Salaries,412.70
+ARS,2024-25,Amortisation & Depreciation,245.85
+ARS,2024-25,Other Operating Expenses,239.95
+ARS,2024-25,Net Interest & Debt Servicing,21.10
+ARS,2024-25,Share of JV,2.02
+AVL,2024-25,Wages & Salaries,325.30
+AVL,2024-25,Amortisation & Depreciation,138.28
+AVL,2024-25,Other Operating Expenses,152.44
+AVL,2024-25,Net Interest & Debt Servicing,10.60
+INT,2024-25,Wages & Salaries,253.20
+INT,2024-25,Amortisation & Depreciation,91.00
+INT,2024-25,Other Operating Expenses,135.80
+INT,2024-25,Net Interest & Debt Servicing,35.10
+INT,2024-25,Corporate Tax,14.50
+LIV,2024-25,Wages & Salaries,508.9
+LIV,2024-25,Amortisation & Depreciation,157.00
+LIV,2024-25,Other Operating Expenses,220.90
+LIV,2024-25,Net Interest & Debt Servicing,10.10
+LIV,2024-25,Corporate Tax,8.21
+BVB,2024-25,Wages & Salaries,258.57
+BVB,2024-25,Amortisation & Depreciation,101.92
+BVB,2024-25,Other Operating Expenses,221.09
+BVB,2024-25,Net Interest & Debt Servicing,3.95
+BVB,2024-25,Cost of Materials & Services,27.36
+BAY,2024-25,Wages & Salaries,408.30
+BAY,2024-25,Amortisation & Depreciation,132.30
+BAY,2024-25,Other Operating Expenses,310.00
+BAY,2024-25,Cost of Materials & Services,59.90
+BAY,2024-25,Net Interest & Debt Servicing,1.90
+BAY,2024-25,Corporate Tax,3.34
+ATM,2024-25,Wages & Salaries,279.93
+ATM,2024-25,Amortisation & Depreciation,92.44
+ATM,2024-25,Supplies,34.80
+ATM,2024-25,Exchange Differences,0.78
+ATM,2024-25,Other Operating Expenses,113.60
+ATM,2024-25,Net Interest & Debt Servicing,23.79
+ATM,2024-25,Corporate Tax,0.07

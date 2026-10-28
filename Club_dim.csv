@@ -1,0 +1,11 @@
+﻿Club_id,Club_name,Country,League,Domestic_League_Rank_2024_25,UCL_Stage_2024_25,Ownership_Type,City,Stadium
+PSG,Paris Saint-Germain,France,Ligue 1,1,Winner,State-Backed,Paris,Parc des Princes
+INT,Inter Milan,Italy,Serie A,2,Runner-up,Privately-Owned,Milan,San Siro
+ARS,Arsenal,England,Premier League,2,Semi-finalist,Privately-Owned,London,Emirates Stadium
+BAR,Barcelona,Spain,La Liga,1,Semi-finalist,Fan-Owned,Barcelona,Estadi Olímpic Lluís Companys
+RMA,Real Madrid,Spain,La Liga,2,Quarter-finalist,Fan-Owned,Mardid,Santiago Bernabéu
+AVL,Aston Villa,England,Premier League,6,Quarter-finalist,Privately-Owned,Birmingham,Villa Park
+BAY,Bayern Munich,Germany,Bundesliga,1,Quarter-finalist,Fan-Owned,Munich,Allianz Arena
+BVB,Borussia Dortmund,Germany,Bundesliga,4,Quarter-finalist,Fan-Owned,Dortmund,Signal Iduna Park
+LIV,Liverpool,England,Premier League,1,R16,Privately-Owned,Liverpool,Anfield
+ATM,Atletico Madrid,Spain,La Liga,3,R16,Privately-Owned,Madrid,Riyadh Air Metropolitano
