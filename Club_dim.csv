@@ -1,0 +1,56 @@
+﻿Club_id,Club_name,Country,League,Domestic_League_Rank_2024_25,UCL_Stage_2024_25,Ownership_Type,City,Stadium
+PSG,Paris Saint-Germain,France,Ligue 1,1,Winner,State-Backed,Paris,Parc des Princes
+INT,Inter Milan,Italy,Serie A,2,Runner-up,Privately-Owned,Milan,San Siro
+ARS,Arsenal,England,Premier League,2,Semi-finalist,Privately-Owned,London,Emirates Stadium
+BAR,Barcelona,Spain,La Liga,1,Semi-finalist,Fan-Owned,Barcelona,Estadi Olímpic Lluís Companys
+RMA,Real Madrid,Spain,La Liga,2,Quarter-finalist,Fan-Owned,Madrid,Santiago Bernabéu
+AVL,Aston Villa,England,Premier League,6,Quarter-finalist,Privately-Owned,Birmingham,Villa Park
+BAY,Bayern Munich,Germany,Bundesliga,1,Quarter-finalist,Fan-Owned,Munich,Allianz Arena
+BVB,Borussia Dortmund,Germany,Bundesliga,4,Quarter-finalist,Fan-Owned,Dortmund,Signal Iduna Park
+LIV,Liverpool,England,Premier League,1,R16,Privately-Owned,Liverpool,Anfield
+ATM,Atletico Madrid,Spain,La Liga,3,R16,Privately-Owned,Madrid,Riyadh Air Metropolitano
+LEV,Bayer Leverkusen,Germany,Bundesliga,2,R16,Privately-Owned,Leverkusen,BayArena
+LIL,Lille OSC,France,Ligue 1,5,R16,Privately-Owned,Lille,Stade Pierre-Mauroy
+ATA,Atalanta,Italy,Serie A,3,R16,Privately-Owned,Bergamo,Gewiss Stadium
+ACM,AC Milan,Italy,Serie A,8,N/A,Privately-Owned,Milan,San Siro
+PSV,PSV Eindhoven,Netherlands,Eredivisie,1,R16,Privately-Owned,Eindhoven,Philips Stadion
+BEN,Benfica,Portugal,Primeira Liga,2,R16,Fan-Owned,Lisbon,Estádio da Luz
+MON,AS Monaco,Monaco,Ligue 1,3,R16,Privately-Owned,Monaco,Stade Louis II
+BRE,Stade Brestois,France,Ligue 1,9,R16,Privately-Owned,Brest,Stade Francis-Le Blé
+FEY,Feyenoord,Netherlands,Eredivisie,3,R16,Fan-Owned,Rotterdam,De Kuip
+JUV,Juventus,Italy,Serie A,4,R16,Privately-Owned,Turin,Allianz Stadium
+CEL,Celtic,Scotland,Scottish Premiership,1,R16,Privately-Owned,Glasgow,Celtic Park
+MCI,Manchester City,England,Premier League,3,Playoff eliminated,State-Backed,Manchester,Etihad Stadium
+SCP,Sporting CP,Portugal,Primeira Liga,1,Playoff eliminated,Fan-Owned,Lisbon,Estádio José Alvalade
+BRU,Club Brugge,Belgium,Belgian Pro League,2,R16,Privately-Owned,Bruges,Jan Breydel Stadium
+DIN,Dinamo Zagreb,Croatia,HNL,2,League phase,Fan-Owned,Zagreb,Stadion Maksimir
+STU,VfB Stuttgart,Germany,Bundesliga,9,League phase,Fan-Owned,Stuttgart,MHPArena
+SHA,Shakhtar Donetsk,Ukraine,Ukrainian Premier League,3,League phase,Privately-Owned,Donetsk,Arena Lviv
+BOL,Bologna,Italy,Serie A,9,League phase,Privately-Owned,Bologna,Stadio Renato Dall'Ara
+CZV,Red Star Belgrade,Serbia,Serbian SuperLiga,1,League phase,Privately-Owned,Belgrade,Rajko Mitić Stadium
+STG,Sturm Graz,Austria,Austrian Bundesliga,1,League phase,Fan-Owned,Graz,Merkur Arena
+SPA,Sparta Prague,Czechia,Czech First League,4,League phase,Privately-Owned,Prague,epet ARENA
+RBL,RB Leipzig,Germany,Bundesliga,7,League phase,Corporate-Owned,Leipzig,Red Bull Arena
+GIR,Girona FC,Spain,La Liga,16,League phase,Privately-Owned,Girona,Estadi Montilivi
+RBS,Red Bull Salzburg,Austria,Austrian Bundesliga,2,League phase,Corporate-Owned,Salzburg,Red Bull Arena
+SLO,Slovan Bratislava,Slovakia,Slovak First League,1,League phase,Privately-Owned,Bratislava,Tehelné pole
+YBB,Young Boys,Switzerland,Swiss Super League,3,League phase,Privately-Owned,Bern,Stadion Wankdorf
+TOT,Tottenham Hotspur,England,Premier League,17,Europa League,Privately-Owned,London,Tottenham Hotspur Stadium
+MUN,Manchester United,England,Premier League,15,Europa League,Privately-Owned,Manchester,Old Trafford
+LAZ,Lazio,Italy,Serie A,7,Europa League,Privately-Owned,Rome,Stadio Olimpico
+ATH,Athletic Club,Spain,La Liga,4,Europa League,Fan-Owned,Bilbao,San Mamés
+EIN,Eintracht Frankfurt,Germany,Bundesliga,3,Europa League,Fan-Owned,Frankfurt,Deutsche Bank Park
+LYO,Olympique Lyonnais,France,Ligue 1,6,Europa League,Privately-Owned,Lyon,Groupama Stadium
+OLY,Olympiacos,Greece,Super League Greece,1,Europa League,Privately-Owned,Piraeus,Karaiskakis Stadium
+RAN,Rangers FC,Scotland,Scottish Premiership,2,Europa League,Privately-Owned,Glasgow,Ibrox Stadium
+BOD,Bodø/Glimt,Norway,Eliteserien,2,Europa League,Privately-Owned,Bodø,Aspmyra Stadion
+ROM,AS Roma,Italy,Serie A,5,Europa League,Privately-Owned,Rome,Stadio Olimpico
+AJA,Ajax,Netherlands,Eredivisie,2,Europa League,Fan-Owned,Amsterdam,Johan Cruyff Arena
+AZA,AZ Alkmaar,Netherlands,Eredivisie,5,Europa League,Privately-Owned,Alkmaar,AFAS Stadion
+FCP,FC Porto,Portugal,Primeira Liga,3,Europa League,Privately-Owned,Porto,Estádio do Dragão
+FEN,Fenerbahçe,Türkiye,Süper Lig,2,Europa League,Fan-Owned,Istanbul,Şükrü Saracoğlu Stadium
+PLZ,Viktoria Plzeň,Czechia,Czech First League,2,Europa League,Privately-Owned,Plzeň,Doosan Arena
+GAL,Galatasaray,Türkiye,Süper Lig,1,Europa League,Fan-Owned,Istanbul,Rams Park
+BRA,SC Braga,Portugal,Primeira Liga,4,Europa League,Privately-Owned,Braga,Estádio Municipal de Braga
+PAO,PAOK,Greece,Super League Greece,4,Europa League,Privately-Owned,Thessaloniki,Toumba Stadium
+AND,RSC Anderlecht,Belgium,Belgian Pro League,4,Europa League,Privately-Owned,Brussels,Lotto Park

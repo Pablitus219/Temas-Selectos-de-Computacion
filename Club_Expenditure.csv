@@ -1,0 +1,192 @@
+﻿Club_id,Season,Expenditure_type,Amount_Euros(InMillions)
+RMA,2024-25,Wages & Salaries,505.74
+RMA,2024-25,Amortisation & Depreciation,167.70
+RMA,2024-25,Other Operating Expenses,383.24
+RMA,2024-25,Cost Of Sales,87.70
+RMA,2024-25,Net Interest & Debt Servicing,48.97
+RMA,2024-25,Corporate Tax,7.04
+BAR,2024-25,Wages & Salaries,509.95
+BAR,2024-25,Amortisation & Depreciation,106.31
+BAR,2024-25,Other Operating Expenses,230.13
+BAR,2024-25,Net Interest & Debt Servicing,27.34
+BAR,2024-25,Supplies,79.70
+BAR,2024-25,Corporate Tax,8.57
+BAR,2024-25,Impairment of Financial Investments,52.57
+BAR,2024-25,Exchange Differences,1.12
+PSG,2024-25,Wages & Salaries,535.00
+PSG,2024-25,Agent Fees,24.10
+PSG,2024-25,Amortisation & Depreciation,159.90
+PSG,2024-25,Other Operating Expenses,229.20
+PSG,2024-25,Net Interest & Debt Servicing,3.00
+ARS,2024-25,Wages & Salaries,412.70
+ARS,2024-25,Amortisation & Depreciation,245.85
+ARS,2024-25,Other Operating Expenses,239.95
+ARS,2024-25,Net Interest & Debt Servicing,21.10
+ARS,2024-25,Share of JV,2.02
+AVL,2024-25,Wages & Salaries,325.30
+AVL,2024-25,Amortisation & Depreciation,138.28
+AVL,2024-25,Other Operating Expenses,152.44
+AVL,2024-25,Net Interest & Debt Servicing,10.60
+INT,2024-25,Wages & Salaries,253.20
+INT,2024-25,Amortisation & Depreciation,91.00
+INT,2024-25,Other Operating Expenses,135.80
+INT,2024-25,Net Interest & Debt Servicing,35.10
+INT,2024-25,Corporate Tax,14.50
+LIV,2024-25,Wages & Salaries,508.9
+LIV,2024-25,Amortisation & Depreciation,157.00
+LIV,2024-25,Other Operating Expenses,220.90
+LIV,2024-25,Net Interest & Debt Servicing,10.10
+LIV,2024-25,Corporate Tax,8.21
+BVB,2024-25,Wages & Salaries,258.57
+BVB,2024-25,Amortisation & Depreciation,101.92
+BVB,2024-25,Other Operating Expenses,221.09
+BVB,2024-25,Net Interest & Debt Servicing,3.95
+BVB,2024-25,Cost of Materials & Services,27.36
+BAY,2024-25,Wages & Salaries,408.30
+BAY,2024-25,Amortisation & Depreciation,132.30
+BAY,2024-25,Other Operating Expenses,310.00
+BAY,2024-25,Cost of Materials & Services,59.90
+BAY,2024-25,Net Interest & Debt Servicing,1.90
+BAY,2024-25,Corporate Tax,3.34
+ATM,2024-25,Wages & Salaries,279.93
+ATM,2024-25,Amortisation & Depreciation,92.44
+ATM,2024-25,Supplies,34.80
+ATM,2024-25,Exchange Differences,0.78
+ATM,2024-25,Other Operating Expenses,113.60
+ATM,2024-25,Net Interest & Debt Servicing,23.79
+ATM,2024-25,Corporate Tax,0.07
+LEV,2024-25,Wages & Salaries,189.10
+LEV,2024-25,Amortisation & Depreciation,49.86
+LEV,2024-25,Other Operating Expenses,98.81
+LIL,2024-25,Wages & Salaries,94.31
+LIL,2024-25,Amortisation & Depreciation,41.15
+LIL,2024-25,Other Operating Expenses,50.69
+ATA,2024-25,Wages & Salaries,162.08
+ATA,2024-25,Amortisation & Depreciation,65.11
+ATA,2024-25,Other Operating Expenses,58.68
+ACM,2024-25,Wages & Salaries,277.05
+ACM,2024-25,Amortisation & Depreciation,96.09
+ACM,2024-25,Other Operating Expenses,123.86
+PSV,2024-25,Wages & Salaries,105.90
+PSV,2024-25,Amortisation & Depreciation,30.38
+PSV,2024-25,Other Operating Expenses,38.94
+BEN,2024-25,Wages & Salaries,118.78
+BEN,2024-25,Amortisation & Depreciation,58.00
+BEN,2024-25,Other Operating Expenses,53.14
+MON,2024-25,Wages & Salaries,90.34
+MON,2024-25,Amortisation & Depreciation,26.65
+MON,2024-25,Other Operating Expenses,34.51
+BRE,2024-25,Wages & Salaries,73.02
+BRE,2024-25,Amortisation & Depreciation,25.08
+BRE,2024-25,Other Operating Expenses,30.61
+FEY,2024-25,Wages & Salaries,92.12
+FEY,2024-25,Amortisation & Depreciation,27.44
+FEY,2024-25,Other Operating Expenses,36.48
+JUV,2024-25,Wages & Salaries,236.62
+JUV,2024-25,Amortisation & Depreciation,73.78
+JUV,2024-25,Other Operating Expenses,97.61
+CEL,2024-25,Wages & Salaries,101.25
+CEL,2024-25,Amortisation & Depreciation,27.39
+CEL,2024-25,Other Operating Expenses,38.38
+MCI,2024-25,Wages & Salaries,501.18
+MCI,2024-25,Amortisation & Depreciation,185.64
+MCI,2024-25,Other Operating Expenses,212.56
+SCP,2024-25,Wages & Salaries,87.54
+SCP,2024-25,Amortisation & Depreciation,30.00
+SCP,2024-25,Other Operating Expenses,36.65
+BRU,2024-25,Wages & Salaries,85.79
+BRU,2024-25,Amortisation & Depreciation,30.82
+BRU,2024-25,Other Operating Expenses,39.01
+DIN,2024-25,Wages & Salaries,40.27
+DIN,2024-25,Amortisation & Depreciation,11.37
+DIN,2024-25,Other Operating Expenses,14.05
+STU,2024-25,Wages & Salaries,125.63
+STU,2024-25,Amortisation & Depreciation,56.23
+STU,2024-25,Other Operating Expenses,46.40
+SHA,2024-25,Wages & Salaries,48.11
+SHA,2024-25,Amortisation & Depreciation,13.06
+SHA,2024-25,Other Operating Expenses,20.24
+BOL,2024-25,Wages & Salaries,87.14
+BOL,2024-25,Amortisation & Depreciation,30.27
+BOL,2024-25,Other Operating Expenses,42.32
+CZV,2024-25,Wages & Salaries,41.52
+CZV,2024-25,Amortisation & Depreciation,18.51
+CZV,2024-25,Other Operating Expenses,16.99
+STG,2024-25,Wages & Salaries,36.17
+STG,2024-25,Amortisation & Depreciation,10.88
+STG,2024-25,Other Operating Expenses,12.41
+SPA,2024-25,Wages & Salaries,43.13
+SPA,2024-25,Amortisation & Depreciation,15.66
+SPA,2024-25,Other Operating Expenses,16.87
+RBL,2024-25,Wages & Salaries,185.80
+RBL,2024-25,Amortisation & Depreciation,73.27
+RBL,2024-25,Other Operating Expenses,61.06
+GIR,2024-25,Wages & Salaries,70.54
+GIR,2024-25,Amortisation & Depreciation,20.07
+GIR,2024-25,Other Operating Expenses,29.34
+RBS,2024-25,Wages & Salaries,65.15
+RBS,2024-25,Amortisation & Depreciation,16.07
+RBS,2024-25,Other Operating Expenses,28.89
+SLO,2024-25,Wages & Salaries,32.53
+SLO,2024-25,Amortisation & Depreciation,10.06
+SLO,2024-25,Other Operating Expenses,12.14
+YBB,2024-25,Wages & Salaries,45.63
+YBB,2024-25,Amortisation & Depreciation,16.24
+YBB,2024-25,Other Operating Expenses,21.21
+TOT,2024-25,Wages & Salaries,277.67
+TOT,2024-25,Amortisation & Depreciation,166.74
+TOT,2024-25,Other Operating Expenses,158.78
+MUN,2024-25,Wages & Salaries,391.89
+MUN,2024-25,Amortisation & Depreciation,174.53
+MUN,2024-25,Other Operating Expenses,230.31
+LAZ,2024-25,Wages & Salaries,101.28
+LAZ,2024-25,Amortisation & Depreciation,35.30
+LAZ,2024-25,Other Operating Expenses,44.27
+ATH,2024-25,Wages & Salaries,105.17
+ATH,2024-25,Amortisation & Depreciation,30.42
+ATH,2024-25,Other Operating Expenses,53.87
+EIN,2024-25,Wages & Salaries,200.14
+EIN,2024-25,Amortisation & Depreciation,61.73
+EIN,2024-25,Other Operating Expenses,78.01
+LYO,2024-25,Wages & Salaries,157.02
+LYO,2024-25,Amortisation & Depreciation,52.57
+LYO,2024-25,Other Operating Expenses,44.22
+OLY,2024-25,Wages & Salaries,58.77
+OLY,2024-25,Amortisation & Depreciation,19.26
+OLY,2024-25,Other Operating Expenses,22.75
+RAN,2024-25,Wages & Salaries,70.09
+RAN,2024-25,Amortisation & Depreciation,27.32
+RAN,2024-25,Other Operating Expenses,24.51
+BOD,2024-25,Wages & Salaries,39.00
+BOD,2024-25,Amortisation & Depreciation,9.68
+BOD,2024-25,Other Operating Expenses,17.89
+ROM,2024-25,Wages & Salaries,155.34
+ROM,2024-25,Amortisation & Depreciation,43.81
+ROM,2024-25,Other Operating Expenses,56.35
+AJA,2024-25,Wages & Salaries,85.42
+AJA,2024-25,Amortisation & Depreciation,29.26
+AJA,2024-25,Other Operating Expenses,41.98
+AZA,2024-25,Wages & Salaries,49.65
+AZA,2024-25,Amortisation & Depreciation,21.63
+AZA,2024-25,Other Operating Expenses,17.90
+FCP,2024-25,Wages & Salaries,99.28
+FCP,2024-25,Amortisation & Depreciation,30.30
+FCP,2024-25,Other Operating Expenses,30.26
+FEN,2024-25,Wages & Salaries,136.22
+FEN,2024-25,Amortisation & Depreciation,43.33
+FEN,2024-25,Other Operating Expenses,40.55
+PLZ,2024-25,Wages & Salaries,27.51
+PLZ,2024-25,Amortisation & Depreciation,7.21
+PLZ,2024-25,Other Operating Expenses,11.10
+GAL,2024-25,Wages & Salaries,175.73
+GAL,2024-25,Amortisation & Depreciation,62.48
+GAL,2024-25,Other Operating Expenses,68.45
+BRA,2024-25,Wages & Salaries,46.19
+BRA,2024-25,Amortisation & Depreciation,16.34
+BRA,2024-25,Other Operating Expenses,21.43
+PAO,2024-25,Wages & Salaries,43.26
+PAO,2024-25,Amortisation & Depreciation,11.09
+PAO,2024-25,Other Operating Expenses,13.90
+AND,2024-25,Wages & Salaries,60.56
+AND,2024-25,Amortisation & Depreciation,24.47
+AND,2024-25,Other Operating Expenses,25.86

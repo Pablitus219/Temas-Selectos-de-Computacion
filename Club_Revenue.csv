@@ -1,0 +1,198 @@
+﻿Club_id,Season,Revenue_Type,Amount_Euros(InMillions)
+RMA,2024-25,Matchday & Memberships,326.30
+RMA,2024-25,Broadcast & Reward Prices,351.65
+RMA,2024-25,Sponsorships & Marketing,481.20
+RMA,2024-25,Other Income,2.11
+RMA,2024-25,Provision surpluses,23.20
+RMA,2024-25,Player Sales & Transfer Profits,34.65
+RMA,2024-26,Financial Income,5.57
+BAR,2024-25,Matchday & Memberships,150.20
+BAR,2024-25,Broadcast & Reward Prices,250.50
+BAR,2024-25,Sponsorships & Marketing,556.84
+BAR,2024-25,Other Income,29.70
+BAR,2024-25,Provision Surpluses,1.25
+BAR,2024-25,Player Sales & Transfer Profits,13.47
+BAR,2024-26,Financial Income,1.99
+PSG,2024-25,Matchday & Memberships,78.20
+PSG,2024-25,Broadcast & Reward Prices,243.20
+PSG,2024-25,Sponsorships & Marketing,386.60
+PSG,2024-25,Other Income,129.10
+PSG,2024-25,Exceptional Items,7.5
+PSG,2024-25,Player Sales & Transfer Profits,66.2
+PSG,2024-25,Financial Income,0.20
+ARS,2024-25,Matchday & Memberships,183.10
+ARS,2024-25,Broadcast & Reward Prices,324.60
+ARS,2024-25,Sponsorships & Marketing,313.20
+ARS,2024-25,Other Income,0.60
+ARS,2024-25,Property Income,0.83
+ARS,2024-25,Player Sales & Transfer Profits,96.63
+AVL,2024-25,Matchday & Memberships,45.82
+AVL,2024-25,Broadcast & Reward Prices,286.70
+AVL,2024-25,Sponsorships & Marketing,108.10
+AVL,2024-25,Other Income,9.40
+AVL,2024-25,Player Sales & Transfer Profits,61.88
+AVL,2024-25,Asset Sales,135.18
+INT,2024-25,Matchday & Memberships,103.60
+INT,2024-25,Broadcast & Reward Prices,264.40
+INT,2024-25,Sponsorships & Marketing,175.40
+INT,2024-25,Other Income,7.10
+INT,2024-25,Player Sales & Transfer Profits,14.40
+LIV,2024-25,Matchday & Memberships,137.60
+LIV,2024-25,Broadcast & Reward Prices,313.80
+LIV,2024-25,Sponsorships & Marketing,385.00
+LIV,2024-25,Other Income,15.40
+LIV,2024-25,Player Sales & Transfer Profits,63.43
+BVB,2024-25,Matchday & Memberships,55.22
+BVB,2024-25,Broadcast & Reward Prices,227.20
+BVB,2024-25,Sponsorships & Marketing,153.55
+BVB,2024-25,Other Income,59.73
+BVB,2024-25,Merchandsing,42.90
+BVB,2024-25,Other Effects,7.81
+BVB,2024-26,Player Sales & Transfer Profits,71.22
+BVB,2024-27,Finance Income,1.97
+BAY,2024-25,Matchday & Memberships,260.70
+BAY,2024-25,Broadcast & Reward Prices,105.30
+BAY,2024-25,Sponsorships & Marketing,390.90
+BAY,2024-25,Player Sales & Transfer Profits,117.70
+BAY,2024-25,Other Income,51.90
+ATM,2024-25,Matchday & Memberships,191.28
+ATM,2024-25,Broadcast & Reward Prices,109.22
+ATM,2024-25,Sponsorships & Marketing,113.46
+ATM,2024-25,Other Income,33.40
+ATM,2024-25,Player Sales & Transfer Profits,56.13
+ATM,2024-25,Financial Income,2.32
+LEV,2024-25,Matchday & Memberships,45.26
+LEV,2024-25,Broadcast & Reward Prices,162.33
+LEV,2024-25,Sponsorships & Marketing,124.72
+LIL,2024-25,Matchday & Memberships,25.17
+LIL,2024-25,Broadcast & Reward Prices,105.22
+LIL,2024-25,Sponsorships & Marketing,39.60
+ATA,2024-25,Matchday & Memberships,28.80
+ATA,2024-25,Broadcast & Reward Prices,181.44
+ATA,2024-25,Sponsorships & Marketing,57.17
+ACM,2024-25,Matchday & Memberships,77.51
+ACM,2024-25,Broadcast & Reward Prices,173.54
+ACM,2024-25,Sponsorships & Marketing,172.94
+PSV,2024-25,Matchday & Memberships,29.56
+PSV,2024-25,Broadcast & Reward Prices,88.50
+PSV,2024-25,Sponsorships & Marketing,55.53
+BEN,2024-25,Matchday & Memberships,47.66
+BEN,2024-25,Broadcast & Reward Prices,107.99
+BEN,2024-25,Sponsorships & Marketing,60.32
+MON,2024-25,Matchday & Memberships,7.82
+MON,2024-25,Broadcast & Reward Prices,97.97
+MON,2024-25,Sponsorships & Marketing,35.27
+BRE,2024-25,Matchday & Memberships,10.30
+BRE,2024-25,Broadcast & Reward Prices,84.63
+BRE,2024-25,Sponsorships & Marketing,20.38
+FEY,2024-25,Matchday & Memberships,35.31
+FEY,2024-25,Broadcast & Reward Prices,66.68
+FEY,2024-25,Sponsorships & Marketing,41.42
+JUV,2024-25,Matchday & Memberships,70.70
+JUV,2024-25,Broadcast & Reward Prices,164.24
+JUV,2024-25,Sponsorships & Marketing,146.70
+CEL,2024-25,Matchday & Memberships,50.83
+CEL,2024-25,Broadcast & Reward Prices,73.32
+CEL,2024-25,Sponsorships & Marketing,39.10
+MCI,2024-25,Matchday & Memberships,97.18
+MCI,2024-25,Broadcast & Reward Prices,303.72
+MCI,2024-25,Sponsorships & Marketing,448.55
+SCP,2024-25,Matchday & Memberships,29.65
+SCP,2024-25,Broadcast & Reward Prices,68.90
+SCP,2024-25,Sponsorships & Marketing,43.86
+BRU,2024-25,Matchday & Memberships,25.47
+BRU,2024-25,Broadcast & Reward Prices,92.20
+BRU,2024-25,Sponsorships & Marketing,33.97
+DIN,2024-25,Matchday & Memberships,10.26
+DIN,2024-25,Broadcast & Reward Prices,43.91
+DIN,2024-25,Sponsorships & Marketing,11.41
+STU,2024-25,Matchday & Memberships,38.69
+STU,2024-25,Broadcast & Reward Prices,117.08
+STU,2024-25,Sponsorships & Marketing,61.39
+SHA,2024-25,Matchday & Memberships,3.04
+SHA,2024-25,Broadcast & Reward Prices,51.21
+SHA,2024-25,Sponsorships & Marketing,19.30
+BOL,2024-25,Matchday & Memberships,20.58
+BOL,2024-25,Broadcast & Reward Prices,100.56
+BOL,2024-25,Sponsorships & Marketing,30.03
+CZV,2024-25,Matchday & Memberships,8.24
+CZV,2024-25,Broadcast & Reward Prices,45.79
+CZV,2024-25,Sponsorships & Marketing,18.16
+STG,2024-25,Matchday & Memberships,8.17
+STG,2024-25,Broadcast & Reward Prices,38.06
+STG,2024-25,Sponsorships & Marketing,13.82
+SPA,2024-25,Matchday & Memberships,12.52
+SPA,2024-25,Broadcast & Reward Prices,37.27
+SPA,2024-25,Sponsorships & Marketing,20.01
+RBL,2024-25,Matchday & Memberships,29.49
+RBL,2024-25,Broadcast & Reward Prices,143.91
+RBL,2024-25,Sponsorships & Marketing,109.84
+GIR,2024-25,Matchday & Memberships,12.43
+GIR,2024-25,Broadcast & Reward Prices,78.67
+GIR,2024-25,Sponsorships & Marketing,25.60
+RBS,2024-25,Matchday & Memberships,9.57
+RBS,2024-25,Broadcast & Reward Prices,53.26
+RBS,2024-25,Sponsorships & Marketing,39.40
+SLO,2024-25,Matchday & Memberships,4.17
+SLO,2024-25,Broadcast & Reward Prices,38.49
+SLO,2024-25,Sponsorships & Marketing,10.19
+YBB,2024-25,Matchday & Memberships,15.27
+YBB,2024-25,Broadcast & Reward Prices,45.48
+YBB,2024-25,Sponsorships & Marketing,21.32
+TOT,2024-25,Matchday & Memberships,127.69
+TOT,2024-25,Broadcast & Reward Prices,244.60
+TOT,2024-25,Sponsorships & Marketing,273.45
+MUN,2024-25,Matchday & Memberships,197.64
+MUN,2024-25,Broadcast & Reward Prices,241.40
+MUN,2024-25,Sponsorships & Marketing,377.40
+LAZ,2024-25,Matchday & Memberships,18.38
+LAZ,2024-25,Broadcast & Reward Prices,94.68
+LAZ,2024-25,Sponsorships & Marketing,43.42
+ATH,2024-25,Matchday & Memberships,36.14
+ATH,2024-25,Broadcast & Reward Prices,108.90
+ATH,2024-25,Sponsorships & Marketing,44.32
+EIN,2024-25,Matchday & Memberships,68.52
+EIN,2024-25,Broadcast & Reward Prices,134.04
+EIN,2024-25,Sponsorships & Marketing,104.13
+LYO,2024-25,Matchday & Memberships,46.78
+LYO,2024-25,Broadcast & Reward Prices,97.53
+LYO,2024-25,Sponsorships & Marketing,73.77
+OLY,2024-25,Matchday & Memberships,18.62
+OLY,2024-25,Broadcast & Reward Prices,45.20
+OLY,2024-25,Sponsorships & Marketing,36.85
+RAN,2024-25,Matchday & Memberships,45.78
+RAN,2024-25,Broadcast & Reward Prices,28.50
+RAN,2024-25,Sponsorships & Marketing,45.56
+BOD,2024-25,Matchday & Memberships,6.10
+BOD,2024-25,Broadcast & Reward Prices,41.87
+BOD,2024-25,Sponsorships & Marketing,14.71
+ROM,2024-25,Matchday & Memberships,49.36
+ROM,2024-25,Broadcast & Reward Prices,125.90
+ROM,2024-25,Sponsorships & Marketing,88.48
+AJA,2024-25,Matchday & Memberships,35.39
+AJA,2024-25,Broadcast & Reward Prices,48.67
+AJA,2024-25,Sponsorships & Marketing,57.17
+AZA,2024-25,Matchday & Memberships,11.64
+AZA,2024-25,Broadcast & Reward Prices,45.50
+AZA,2024-25,Sponsorships & Marketing,26.22
+FCP,2024-25,Matchday & Memberships,25.46
+FCP,2024-25,Broadcast & Reward Prices,77.42
+FCP,2024-25,Sponsorships & Marketing,38.95
+FEN,2024-25,Matchday & Memberships,40.60
+FEN,2024-25,Broadcast & Reward Prices,61.23
+FEN,2024-25,Sponsorships & Marketing,72.81
+PLZ,2024-25,Matchday & Memberships,5.99
+PLZ,2024-25,Broadcast & Reward Prices,31.65
+PLZ,2024-25,Sponsorships & Marketing,9.55
+GAL,2024-25,Matchday & Memberships,53.06
+GAL,2024-25,Broadcast & Reward Prices,78.30
+GAL,2024-25,Sponsorships & Marketing,102.95
+BRA,2024-25,Matchday & Memberships,10.19
+BRA,2024-25,Broadcast & Reward Prices,43.38
+BRA,2024-25,Sponsorships & Marketing,19.31
+PAO,2024-25,Matchday & Memberships,11.52
+PAO,2024-25,Broadcast & Reward Prices,28.65
+PAO,2024-25,Sponsorships & Marketing,25.63
+AND,2024-25,Matchday & Memberships,20.55
+AND,2024-25,Broadcast & Reward Prices,48.52
+AND,2024-25,Sponsorships & Marketing,34.53
